@@ -26,14 +26,6 @@ WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 ```
 
-## Mock-Up
-
-The following images show the web application's appearance and functionality:
-
-![Animation shows input of employees to an employee payroll tracker.](./Assets/03-javascript-homework-demo.gif)
-
-![Shows employee information in the console of an employee payroll tracker.](./Assets/03-javascript-homework-console-demo.png)
-
 ## Technologies Used
 
 - HTML
